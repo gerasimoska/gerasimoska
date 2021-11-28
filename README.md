@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm Teodora 👋
 
-<!--
-**gerasimoska/gerasimoska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Python Developer & Trainer | Bioinformatics Researcher
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" href="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" alt="Hello"  width="550"/><br> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📚 Bachelor of Science (B.Sc.), sub-degree: **Computer Science and Engineering** at [Ss. Cyril and Methodius University](https://www.finki.ukim.mk/en)
+- 🐍 **Python** Full-Stack Developer with 3+ years' experience
+- 👩‍🏫 Certified Python Trainer in a training center
+- 🌱 Bioinformatics/Cheminformatics Researcher
+
+### 📬 Get in Touch
+
+- LinkedIn: [linkedin.com/in/teodora-gerasimoska/][linkedin]
+- ResearchGate: [researchgate.net/profile/Teodora-Gerasimoska][researchgate]
+- Google Scholar: [scholar.google.com/citations?user=O4LqMBoAAAAJ&hl=en][scholargoogle]
+- Personal Website: [gerasimoska.com][site]
+- E-mail: teodora.gerasimoska@live.com
+
+[linkedin]: https://linkedin.com/in/teodora-gerasimoska/
+[researchgate]: https://researchgate.net/profile/Teodora-Gerasimoska
+[scholargoogle]: https://scholar.google.com/citations?user=O4LqMBoAAAAJ&hl=en
+[site]: https://gerasimoska.com
