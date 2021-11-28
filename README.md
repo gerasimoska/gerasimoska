@@ -1,4 +1,4 @@
-# Hello, I'm Teodora 👋
+# Hello, I'm Teodora 👩‍💻
 
 Python Developer & Trainer | Bioinformatics Researcher
 
@@ -7,7 +7,7 @@ Python Developer & Trainer | Bioinformatics Researcher
 - 📚 Bachelor of Science (B.Sc.), sub-degree: **Computer Science and Engineering** at [Ss. Cyril and Methodius University](https://www.finki.ukim.mk/en)
 - 🐍 **Python** Full-Stack Developer with 3+ years' experience
 - 👩‍🏫 Certified Python Trainer in a training center
-- 🌱 Bioinformatics/Cheminformatics Researcher
+- 🧬 **Bioinformatics/Cheminformatics** Researcher
 
 ### 📬 Get in Touch
 
